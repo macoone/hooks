@@ -8,7 +8,7 @@ export const movieData = [
     type:"Crime | Drama",
     seasons:"5 seasons",
     description:"Eight thieves hold hostages in Spain's Royal Mint, while a criminal mastermind manipulates the police into carrying out his plan.",
-
+    trailer:"https://www.youtube.com/embed/uwsmkWh0S5Y"
 },
 {
     id: 2,
@@ -20,8 +20,8 @@ export const movieData = [
     type: "Comedy | Drama",
     seasons: "4 seasons",
     description:
-      "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus."
-  
+      "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.",
+    trailer:"https://www.youtube.com/embed/xqj7XOv9mC8"
 },
 {
     id: 3,
@@ -33,7 +33,8 @@ export const movieData = [
     type: "Comedy | Drama",
     seasons: "4 seasons",
     description:
-      "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus."
+      "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.",
+      trailer:"https://www.youtube.com/embed/oZn3qSgmLqI"
   },
   {
     id: 4,
@@ -45,7 +46,8 @@ export const movieData = [
     type: "Action | Adventure",
     seasons: "5 seasons",
     description:
-      "In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang."
+      "In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang.",
+      trailer:"https://www.youtube.com/embed/hEJnMQG9ev8"
   },
   {
     id: 5,
@@ -57,7 +59,8 @@ export const movieData = [
     type: "Comedy | Drama",
     seasons: "4 seasons",
     description:
-      "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus."
+      "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.",
+      trailer:"https://www.youtube.com/embed/wvwVkllXT80"
   },
   {
     id: 6,
@@ -69,7 +72,8 @@ export const movieData = [
     type: "Action | Adventure",
     seasons: "4 seasons",
     description:
-      "In 1983, in Hawkins, Indiana, Will Byers disappeared from his home. His friends then embark on a search full of pitfalls to find him. While searching for answers, the boys encounter a strange young girl on the run."
+      "In 1983, in Hawkins, Indiana, Will Byers disappeared from his home. His friends then embark on a search full of pitfalls to find him. While searching for answers, the boys encounter a strange young girl on the run.",
+      trailer:"https://www.youtube.com/embed/yQEondeGvKo"
 
       
   },

@@ -4,6 +4,8 @@ import {movieData} from './MovieData'
 import MovieList from './MovieList';
 import AddMovie from './AddMovie'
 import SearchMovie from "./SearchMovie";
+import { Routes, Route } from "react-router-dom";
+import Desc from './Desc'
 function App() {
   const [movieList,SetmovieList] = useState(movieData);
   const [nameSearch, setNameSearch] = useState("");
@@ -24,7 +26,10 @@ function App() {
   <MovieList movieList={movieList}
         nameSearch={nameSearch}
         ratingSearch={ratingSearch} />
-
+<Routes>
+<Route path="/" element={<App />} />
+<Route path="/desc/:idMovie" element={<Desc />} />
+</Routes>
     </div>
   );
 }
